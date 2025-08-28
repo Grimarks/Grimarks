@@ -1,9 +1,9 @@
-<h1 align="center">Hello there call me Darrell</h1>
-<h3 align="center">I'm a passionate developer who loves building web apps, learning new technologies, and solving real-world problems with code(Sometimes)</h3>
+<h1 align="center">Hello there!! call me Darrell ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h1>
+<h3 align="center">I'm a passionate developer(depends on my mood) who loves building web apps(if i'm motivated enough to move), learning new technologies(if i'm interested on it), and solving real-world problems with code(Sometimes) (˶ᵔ ᵕ ᵔ˶)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grimarks" alt="grimarks" /></a> </p>
 
-- I’m currently working on **a cafe website(On progress)**
+- I’m currently working on **a cafe website(On progress)** ⸜(｡˃ ᵕ ˂)⸝♡
 
 - I’m currently learning **anything that excited me(Like python, next.js, react)**
 
