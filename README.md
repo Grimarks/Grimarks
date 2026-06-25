@@ -7,8 +7,8 @@
 - 🚧 Currently building: **a cafe website** (yes, fueled by coffee, obviously)  
 - 📚 Currently learning: **anything that sparks my interest** → Python, Next.js, React (and procrastination mastery)  
 - 🙃 Looking for help with: **debugging my life** through coding  
-- 🌐 Portfolio: [satriano.me](https://portfolio.satriano.me)  
-- 📝 Sometimes I write: [blog.satriano.me](https://satriano.me)  
+- 🌐 Portfolio: [satriano.me](https://satriano.me)  
+- 📝 Sometimes I write: [blog.satriano.me](https://www.satriano.me/writing)  
 - 📬 How to reach me? → **darrell.satriano@gmail.com**  
 - ⚡ Fun fact: I kinda miss my life before I knew how to code... but hey, no regrets (˶ᵔ ᵕ ᵔ˶)  
 
